@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ma4389
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning computer vision 
-- 💞️ I’m looking to collaborate on nlp
+- 💞️ I’m looking to collaborate on IBM
 - 📫 How to reach me ...
 - 😄 Pronouns: LoveStats
 - ⚡ Fun fact: I can't speak english

@@ -2,7 +2,7 @@
 - 👀 I’m interested in machine learning
 - 🌱 I’m currently learning computer vision 
 - 💞️ I’m looking to collaborate on IBM
-- 📫 How to reach me ...
+- 📫 How to reach me to be a Data analyst 
 - 😄 Pronouns: LoveStats
 - ⚡ Fun fact: I can't speak english
 
